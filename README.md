@@ -11,3 +11,7 @@ To install all the requirements , run the following command
 To run , use the command
 
     python3 maria.py
+
+## To use Play module
+Refer to Project medusa and install the requirements
+https://github.com/BatSec/Project-Medusa
