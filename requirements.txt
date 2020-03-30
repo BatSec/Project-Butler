@@ -1,0 +1,13 @@
+google
+beautifulsoup4
+sounddevice
+SpeechRecognition
+PyAudio
+chatterbot
+chatterbot-corpus
+nltk
+sklearn
+opencv-python
+gTTS
+speech
+playsound
